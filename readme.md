@@ -1,4 +1,4 @@
-# CSCI4273 Network Systems Programming Assignment 2
+# HTTP Web Server
 ## Nicholas LaMonica
 This is a simple multi-process HTTP web server in C. I used the socket API, and TCP as the protocol.   
 I did not implement the POST request or polling.  
